@@ -1,1 +1,6 @@
-Place your thoughts here
+Basic functionalities:
+
+Search
+Registration, 
+Listing'
+Applying
