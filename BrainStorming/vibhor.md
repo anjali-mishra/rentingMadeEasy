@@ -1,1 +1,1 @@
-Plase your thoughts here
+Place your thoughts here
